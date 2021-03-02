@@ -20,4 +20,4 @@ if retype_password == password:
 else:
     print('Passwords do not match.')
     
-print('Enjoyed this project? Well thanks! Follow me on GitHub Link: [https://github.com/pythonprogrammerandjs] Thanks!')
+print('Enjoyed this project? Well thanks! Follow me on GitHub Link: [https://github.com/https://github.com/nayvd] Thanks!')
